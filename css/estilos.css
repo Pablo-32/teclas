@@ -1,0 +1,19 @@
+body {
+    background: black
+}
+
+#area_de_dibujo {
+    background: red;
+    display: flex;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: cornflowerblue;
+    text-decoration-style: double;
+    text-combine-upright: all;
+}
